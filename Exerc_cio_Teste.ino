@@ -1,4 +1,5 @@
-// CURSO IOT NA PRÁTICA ESP8266 - Blink Led 
+// CURSO IOT NA PRÁTICA ESP8266 - Teste 1 
+//Blink Led 
 
 int LED = D4;
 
@@ -17,6 +18,7 @@ delay(1000);
 }
 
 // CURSO IOT NA PRÁTICA ESP8266 - Botão
+//Estão no mesmo programa para demonstração do teste 1 
 
 int led = D4;
 int button = D3;

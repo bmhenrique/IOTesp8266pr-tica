@@ -1,3 +1,5 @@
+//Inclui parte 1 e 2 no mesmo programa para demostração do teste 8
+
 #include <Bounce2.h>
 
 #define BUTTON_PIN D3
